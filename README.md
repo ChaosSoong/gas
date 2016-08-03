@@ -1,1 +1,1 @@
-# wechat_tool
+# wechat
